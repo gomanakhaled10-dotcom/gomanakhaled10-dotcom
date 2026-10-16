@@ -14,11 +14,12 @@ I'm an AI student interested in Machine Learning, data analysis, and building pr
 
 ## 🚀 Featured Projects
 
-- **Wine Quality Classification** — Data preprocessing, EDA, and Gaussian Naive Bayes.
-- **Nobel Prize Dataset Analysis** — Exploratory data analysis and visualization.
-- **House Price Prediction** — Linear Regression and tuned Support Vector Regression.
-- **MotionSense Activity Recognition** — Sensor data analysis and K-Means clustering.
-- **Forest Threat Audio Classification** — Audio feature extraction and machine learning classification.
+- **[Wine Quality Classification](https://github.com/gomanakhaled10-dotcom/wine-quality-classification)** — Data preprocessing, exploratory data analysis, and Gaussian Naive Bayes classification.
+- **[Nobel Prize Dataset Analysis](https://github.com/gomanakhaled10-dotcom/nobel-prize-data-analysis)** — Exploratory data analysis and data visualization.
+- **[House Price Prediction](https://github.com/gomanakhaled10-dotcom/house-price-prediction)** — Linear Regression and tuned Support Vector Regression.
+- **[MotionSense Activity Recognition](https://github.com/gomanakhaled10-dotcom/motionsense-activity-recognition)** — Sensor data analysis and K-Means clustering.
+- **[Forest Threat Audio Classification](https://github.com/gomanakhaled10-dotcom/forest-threat-audio-classification)** — Audio feature extraction and machine learning classification.
+
 
 ## 📫 Connect With Me
 
